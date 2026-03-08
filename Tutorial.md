@@ -1,22 +1,22 @@
 Hi! so, basically, i created this Repository to teach you **How to make a Bot using VS Code!!**
 
-[Table of Contents]
+[Table of Contents](#tableofcontents)
 -------------------------------------------------------------------------------------------------------
 - ### Information
-   - Installation
+   - [Installation](#installation)
    │
    │
    │
-  - Tutorial of the Bot−−┐
-   - Creating the Bot----- ┘
+  - [Tutorial of the Bot](#tutorialofthebot)−−┐
+   - [Creating the Bot](creatingthebot)----- ┘
 - ### Types of Commands
-   - Normal Commands
-   - Tree Commands
+   - [Normal Commands](#normalcommands)
+   - [Tree Commands](#treecommands)
 - ### Events
-    - Creating an Event
+    - [Creating an Event](#event)
 - ### Run
-    - Make the Bot Run
-    - Token Tutorial
+    - [Make the Bot Run](#makethebotrun)
+    - [Token Tutorial](#tokentutorial)
 Information
 -------------------------------------------------------------------------------------------------------
 
