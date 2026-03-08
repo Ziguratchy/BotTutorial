@@ -8,7 +8,7 @@ Hi! so, basically, i created this Repository to teach you **How to make a Bot us
    - [Creating the Bot](https://github.com/Ziguratchy/BotTutorial/blob/main/Tutorial.md#creation-of-the-bot)
  
 - ### Terminal
-   - 
+   - [Terminal](https://github.com/Ziguratchy/BotTutorial/blob/main/Tutorial.md#open-the-terminal)
 - ### Types of Commands
    - [Normal Commands](#normalcommands)
    - [Tree Commands](#treecommands)
