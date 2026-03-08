@@ -1,4 +1,4 @@
-Hi! so, basically, i created this Repository to teach you **How to make a Bot using VS Code!!**
+Hi! so um, basically, i created this Repository to teach you **How to make a Bot using VS Code!**
 
 [Table of Contents](#tableofcontents)
 -------------------------------------------------------------------------------------------------------
