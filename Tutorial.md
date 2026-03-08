@@ -15,7 +15,7 @@ Hi! so, basically, i created this Repository to teach you **How to make a Bot us
 - ### Events
     - [Creating an Event](https://github.com/Ziguratchy/BotTutorial/blob/main/Tutorial.md#creating-an-event)
 - ### Run
-    - [Make the Bot Run](#makethebotrun)
+    - [Make the Bot Run](https://github.com/Ziguratchy/BotTutorial/blob/main/Tutorial.md#make-the-bot-to-run)
     - [Token Tutorial](#tokentutorial)
 Information
 -------------------------------------------------------------------------------------------------------
