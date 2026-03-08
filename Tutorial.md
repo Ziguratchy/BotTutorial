@@ -6,6 +6,9 @@ Hi! so, basically, i created this Repository to teach you **How to make a Bot us
    - [Installation](#installation)
    - [Tutorial of the Bot](#tutorial-of-the-bot)
    - [Creating the Bot](https://github.com/Ziguratchy/BotTutorial/blob/main/Tutorial.md#creation-of-the-bot)
+ 
+- ### Terminal
+   - 
 - ### Types of Commands
    - [Normal Commands](#normalcommands)
    - [Tree Commands](#treecommands)
