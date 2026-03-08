@@ -8,7 +8,7 @@ Hi! so, basically, i created this Repository to teach you **How to make a Bot us
    │
    │
   - [Tutorial of the Bot](#tutorial)−−┐
-   - [Creating the Bot](creatingthebot)----- ┘
+   - [Creating the Bot](creating-the-bot)----- ┘
 - ### Types of Commands
    - [Normal Commands](#normalcommands)
    - [Tree Commands](#treecommands)
