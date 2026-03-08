@@ -10,8 +10,8 @@ Hi! so, basically, i created this Repository to teach you **How to make a Bot us
 - ### Terminal
    - [Terminal](https://github.com/Ziguratchy/BotTutorial/blob/main/Tutorial.md#open-the-terminal)
 - ### Types of Commands
-   - [Normal Commands](#normalcommands)
-   - [Tree Commands](#treecommands)
+   - [Normal Commands](https://github.com/Ziguratchy/BotTutorial/blob/main/Tutorial.md#normal-commands)
+   - [Tree Commands](https://github.com/Ziguratchy/BotTutorial/blob/main/Tutorial.md#tree-commands)
 - ### Events
     - [Creating an Event](https://github.com/Ziguratchy/BotTutorial/blob/main/Tutorial.md#creating-an-event)
 - ### Run
